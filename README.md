@@ -1,16 +1,12 @@
-# tic_tac_toe
+# Tic Tac Toe
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a simple offline tic tac toe game developed for learning purpose. It is based on dart language with flutter framework.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://github.com/AditiDande20/TicTacToe/assets/89302011/ffb1c2c0-9f25-41b9-875d-1a33aad5b9fb" width="350" title="">
+  
+</p>
