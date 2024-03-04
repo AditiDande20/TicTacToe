@@ -1,9 +1,5 @@
 # Tic Tac Toe
-
 This is a simple offline tic tac toe game developed for learning purpose. It is based on dart language with flutter framework. 
-
-## Getting Started
-
 Below are some screenshots and video attached for better understanding.
 
 
